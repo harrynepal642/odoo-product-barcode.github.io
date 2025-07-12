@@ -1,0 +1,1 @@
+# odoo-product-barcode.github.io
